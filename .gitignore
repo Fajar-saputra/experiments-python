@@ -6,7 +6,9 @@ __pycache__/
 *.pyc
 
 # Data hasil pushup
+.txt
 history_pushup.txt
+history_hand.txt
 
 # File sistem
 .DS_Store
